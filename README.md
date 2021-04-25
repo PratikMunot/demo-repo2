@@ -12,5 +12,5 @@ push - Upload Git commits to a remote repo, like Github
 pull - Download changes from remote repo to your local machine, its the opposite of push
 
 
-Hey there
+Hey there 
 
